@@ -1,0 +1,4 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+d752280bfd711ddd14ff91ad7c4dcb3b9c07e640packages/eslint-config-next/package.json
